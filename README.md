@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 5G core by fiddling with https://github.com/free5gc/free5gc @Free mobile
+- 🌱 I’m currently learning Rust and architecture design in general
 <!--
 **Niahh/Niahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
