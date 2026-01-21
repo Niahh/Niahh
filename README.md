@@ -2,8 +2,8 @@
 
 I'm a software engineer based in Paris, France
 
-- 🔭 I’m currently working on 5G core by fiddling with [Free5GC](https://github.com/free5gc/free5gc) @Free mobile
-- 🌱 I’m currently learning architecture design in general and 5G networks
+- 🔭 I’m currently working on 5G core @Free mobile
+- 🌱 I’m currently learning 5G networks and architecture design in general
 - ⚡ Main programing language : Go
 <!--
 **Niahh/Niahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
